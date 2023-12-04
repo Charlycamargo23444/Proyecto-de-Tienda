@@ -1,8 +1,8 @@
 
-package controlador;
+package controlador; 
 
 import pkgModelo.Conexion;
-import Vistas.Proveedores;
+import Vistas.Proveedores; //Este es l vista de la tienda
 
 
 import java.awt.event.ActionEvent;
